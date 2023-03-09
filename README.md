@@ -8,7 +8,7 @@ The report analyzes the effectiveness of advertising media and their synergies o
 
 Introducing an Online Community:
 
-The paper analyzes the impact of adding an online community feature to Nicht-Soporific on revenue, retention rates, and Customer Lifetime Value (CLV). Short-term revenue increased, but long-term retention rates declined for community members. CLV was higher for community members, with better retention and performance seen in organic customers compared to campaign acquired customers.
+The report analyzes the impact of adding an online community feature to Nicht-Soporific on revenue, retention rates, and Customer Lifetime Value (CLV). Short-term revenue increased, but long-term retention rates declined for community members. CLV was higher for community members, with better retention and performance seen in organic customers compared to campaign acquired customers.
 
 Recommendation System:
 
